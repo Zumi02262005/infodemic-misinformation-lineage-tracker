@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Turn off your wifi router at night, because 5G radiation from it weakens your immunity to the coronavirus.",
+    "published_at": "2020-05-20",
+    "dataset": "facebook-pages",
+    "dataset_kind": "social",
+    "author": "Healthy Home PH (page)",
+    "region": "PH",
+    "reach": 5400
+  },
+  {
+    "text": "A nurse in Cebu says the vaccine microchip connects to your phone over Bluetooth.",
+    "published_at": "2021-06-20",
+    "dataset": "whatsapp-tipline",
+    "dataset_kind": "messaging",
+    "author": "Forwarded message",
+    "region": "PH",
+    "reach": 8800
+  },
+  {
+    "text": "Drinking warm salt water every morning kills the coronavirus before it reaches your lungs.",
+    "published_at": "2020-03-30",
+    "dataset": "telegram-channels",
+    "dataset_kind": "messaging",
+    "author": "Afya Bora Updates",
+    "region": "KE",
+    "reach": 4300
+  },
+  {
+    "text": "Taal Volcano released more carbon dioxide in one week than all Filipino cars do in a year.",
+    "published_at": "2020-01-20",
+    "dataset": "x-posts",
+    "dataset_kind": "social",
+    "author": "@lakbay_truth",
+    "region": "PH",
+    "reach": 6100
+  },
+  {
+    "text": "HAARP was used to steer Typhoon Odette into the Visayas, leaked documents show.",
+    "published_at": "2021-12-20",
+    "dataset": "facebook-pages",
+    "dataset_kind": "social",
+    "author": "Gising Pilipinas (page)",
+    "region": "PH",
+    "reach": 17300
+  },
+  {
+    "text": "Eating papaya leaves may help with dengue symptoms, according to traditional medicine.",
+    "published_at": "2018-06-11",
+    "dataset": "news-blogs",
+    "dataset_kind": "news",
+    "author": "Herbal Health Notes (blog)",
+    "region": "PH",
+    "reach": 1900
+  },
+  {
+    "text": "Papaya leaf extract cures dengue in 24 hours, doctors confirm.",
+    "published_at": "2019-08-14",
+    "dataset": "facebook-pages",
+    "dataset_kind": "social",
+    "author": "Lunas sa Bahay (page)",
+    "region": "PH",
+    "reach": 22100
+  },
+  {
+    "text": "Papaya leaf juice cures dengue overnight. Share this with your family!",
+    "published_at": "2019-09-02",
+    "dataset": "whatsapp-tipline",
+    "dataset_kind": "messaging",
+    "author": "Forwarded message",
+    "region": "PH",
+    "reach": 15800
+  }
+]

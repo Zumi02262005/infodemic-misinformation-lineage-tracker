@@ -1,0 +1,24 @@
+{
+  "name": "infodemic-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Express + PostgreSQL API and NLP lineage engine for the Infodemic misinformation lineage tracker.",
+  "type": "module",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20.19"
+  },
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "db:setup": "node scripts/db.js setup",
+    "db:reset": "node scripts/db.js reset",
+    "db:empty": "node scripts/db.js empty",
+    "lineage:rebuild": "node scripts/db.js rebuild",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.0"
+  }
+}

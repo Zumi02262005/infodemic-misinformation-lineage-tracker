@@ -1,0 +1,24 @@
+{
+  "name": "infodemic-misinformation-lineage-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tracks how misinformation claims mutate and spread across public datasets, and draws each claim's lineage as a force-directed graph.",
+  "license": "MIT",
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "engines": {
+    "node": ">=20.19"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "npm run build --workspace client",
+    "start": "npm run start --workspace server",
+    "db:setup": "npm run db:setup --workspace server",
+    "db:reset": "npm run db:reset --workspace server",
+    "db:empty": "npm run db:empty --workspace server",
+    "lineage:rebuild": "npm run lineage:rebuild --workspace server",
+    "test": "npm test --workspace server"
+  }
+}
